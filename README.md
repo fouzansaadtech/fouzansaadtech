@@ -75,9 +75,6 @@ Current Learning Roadmap
 
 ## 📫 Connect With Me
 
-LinkedIn:
-## 📫 Connect With Me
-
 - 💼 LinkedIn: [linkedin.com/in/fouzan-saad](https://www.linkedin.com/in/fouzan-saad-56b124296/?skipRedirect=true)
 - 💻 GitHub: [github.com/fouzansaadtech](https://github.com/fouzansaadtech)
 - 📧 Email: fouzansaad.tech@gmail.com
