@@ -13,24 +13,47 @@ I enjoy learning by solving real-world problems and continuously improving my an
 - 📈 Excel
 - 📉 Power BI
 
-- ### 🏥 Hospital SQL Database Project
-- Designed SQL queries to manage hospital records.
-- Performed CRUD operations and data analysis using SQL.
+## 📂 Featured Projects
+
+### 🏥 Hospital SQL Database Project
+- Designed a relational hospital database.
+- Performed CRUD operations.
+- Wrote SQL queries using joins, aggregate functions, and filtering.
 
 ### 📊 Hospital Exploratory Data Analysis
 - Explored hospital datasets.
-- Identified trends and patterns.
-- Created visualizations and summarized findings.
+- Identified trends and anomalies.
+- Created visualizations to support insights.
 
 ### 🐍 Python Practice Repository
-- Variables
-- Data Types
-- Lists
-- Tuples
-- Sets
-- Dictionaries
-- Loops
-- Functions
+- Hands-on programs covering Python fundamentals.
+- Topics include data structures, loops, functions, and problem solving.
+
+## 🛠️ Technical Skills
+
+**Programming**
+- Python (Fundamentals)
+Variables
+Data Types
+Lists
+Tuples
+Sets
+Dictionaries
+Loops
+Functions
+
+**Database**
+- SQL
+
+**Data Analysis**
+- Exploratory Data Analysis (EDA)
+
+**Tools**
+- Git
+- GitHub
+- Microsoft Excel (Learning)
+- Power BI (Learning)
+
 
 ## 🎯 Goals for 2026
 
