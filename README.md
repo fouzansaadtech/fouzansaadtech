@@ -15,6 +15,8 @@ I enjoy learning by solving real-world problems and continuously improving my an
 
 ## 📂 Featured Projects
 
+"Learning by building practical projects and turning data into meaningful insights"...
+
 ### 🏥 Hospital SQL Database Project
 - Designed a relational hospital database.
 - Performed CRUD operations.
@@ -55,7 +57,7 @@ Functions
 - Power BI (Learning)
 
 
-## 🎯 Goals for 2026
+Current Learning Roadmap
 
 ✔ Complete Python
 
@@ -74,11 +76,11 @@ Functions
 ## 📫 Connect With Me
 
 LinkedIn:
-https://www.linkedin.com/in/fouzan-saad-56b124296/?skipRedirect=true
-GitHub:
-https://github.com/fouzansaadtech
-Gmail:
-fouzansaad.tech@gmail.com
+## 📫 Connect With Me
+
+- 💼 LinkedIn: [linkedin.com/in/fouzan-saad](https://www.linkedin.com/in/fouzan-saad-56b124296/?skipRedirect=true)
+- 💻 GitHub: [github.com/fouzansaadtech](https://github.com/fouzansaadtech)
+- 📧 Email: fouzansaad.tech@gmail.com
 
 <!--
 **fouzansaadtech/fouzansaadtech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
