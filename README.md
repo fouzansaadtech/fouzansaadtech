@@ -32,24 +32,30 @@ I enjoy learning by solving real-world problems and continuously improving my an
 - Loops
 - Functions
 
+## 🎯 Goals for 2026
 
-✔ Master Python
+✔ Complete Python
 
-✔ Improve SQL Skills
+✔ Master SQL
+
+⬜ Learn Excel
+
+⬜ Learn Power BI
 
 ⬜ Learn Pandas
 
-⬜ Learn NumPy
-
 ⬜ Build 10+ Data Analytics Projects
 
-⬜ Get My First Data Analyst Job
+⬜ Land my first Data Analyst role
 
+## 📫 Connect With Me
 
 LinkedIn:
 https://www.linkedin.com/in/fouzan-saad-56b124296/?skipRedirect=true
 GitHub:
 https://github.com/fouzansaadtech
+Gmail:
+fouzansaad.tech@gmail.com
 
 <!--
 **fouzansaadtech/fouzansaadtech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
